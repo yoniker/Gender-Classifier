@@ -16,6 +16,7 @@ This will literally show you the pictures with bounding boxes and classification
 
 
 Requirements:
+  - Python3
   - PyTorch
   - TorchVision
   - OpenCV
