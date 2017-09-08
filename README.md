@@ -11,7 +11,9 @@ Having said that, there's still a lot of room for improvement!
 # 2.How do I run it?
 
 After cloning the project, and meeting the requirements, all you need to do is put images at the test folder, and then simply 
+```sh
 python3 classify.py
+```
 This will literally show you the pictures with bounding boxes and classification
 
 
