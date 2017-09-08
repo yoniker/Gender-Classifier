@@ -8,7 +8,7 @@ In fact, as far as I know this is currently (8-Sep-2017) the world's best Gender
 exceeding 93%.
 Having said that, there's still a lot of room for improvement!
 
-#2.How do I run it?
+# 2.How do I run it?
 
 After cloning the project, and meeting the requirements, all you need to do is put images at the test folder, and then simply 
 python3 classify.py
